@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.sitelytc.com/work/dealzook",
+      "permanent": true
+    }
+  ]
+}
